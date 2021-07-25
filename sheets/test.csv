@@ -1,0 +1,15 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+119284,SpotifyCares,False,Wed Oct 11 14:07:15 +0000 2017,@105847 Sure thing. We'll keep an eye out for your update /MU,119285,119282
+119285,105847,True,Thu Oct 12 10:25:35 +0000 2017,@SpotifyCares problem has come back again today. is there some kind of bug?,119286,119284
+119286,SpotifyCares,False,Thu Oct 12 11:43:57 +0000 2017,"@105847 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY",119287,119285
+119287,105847,True,Thu Oct 12 12:04:21 +0000 2017,"@SpotifyCares It's on a Macbook Air (early 2014), running High Sierra, spotify version 1.0.65.320.gac7a8e02",119288,119286
+119288,SpotifyCares,False,Thu Oct 12 12:09:13 +0000 2017,@105847 Got it. Can you try the steps here for us: https://t.co/EqisDMwZAT? They should help with this. Let us know how it plays out /AY,,119287
+119283,105847,True,Wed Oct 11 12:37:46 +0000 2017,@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app,119281,
+119289,AppleSupport,False,Wed Oct 11 13:44:29 +0000 2017,@105848 Let's take a look. What is the exact iOS you're using? Are you using any specific apps when noticing this? DM us your reply. https://t.co/GDrqU22YpT,"119290,119291",119292
+119290,105848,True,Wed Oct 11 13:48:49 +0000 2017,@AppleSupport Latest version 😡😡 I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life,,119289
+119291,105848,True,Wed Oct 11 15:44:02 +0000 2017,@AppleSupport Super help - problem solved 😀 once again in love with Apple,,119289
+119292,105848,True,Wed Oct 11 08:06:34 +0000 2017,@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it’s a disgrace - used to get 2 days,119289,
+119293,AppleSupport,False,Wed Oct 11 13:30:00 +0000 2017,@105849 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. https://t.co/GDrqU22YpT,,119294
+119294,105849,True,Wed Oct 11 07:03:47 +0000 2017,"Took my phone off charge at 7:20am. 8:03am - 60% battery remaining. @76099 plz I beg you, sort your battery life out😩",119293,
+119295,SouthwestAir,False,Wed Oct 11 13:39:32 +0000 2017,"@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",119296,119297
+119296,105850,True,Wed Oct 11 13:55:48 +0000 2017,@SouthwestAir I am! Thank you for the answer!!,,119295
